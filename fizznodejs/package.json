@@ -1,0 +1,15 @@
+{
+  "name": "fizznodejs",
+  "version": "1.0.0",
+  "description": "fizzbot nodejs solver",
+  "main": "fizzsolver.js",
+  "scripts": {
+    "test": "node fizzsolver.js",
+    "start": "node fizzsolver.js"
+  },
+  "author": "wuya666",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
